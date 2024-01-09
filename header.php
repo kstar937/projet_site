@@ -25,23 +25,22 @@
 
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" href="#">Meilleur Ventes</a>
+          <a class="nav-link" href="index.php">Acceuil</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Livres</a>
+          <a class="nav-link" href="products.php?rayon=livres">Livres</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">High Tech</a>
+          <a class="nav-link" href="products.php?rayon=hightech">High Tech</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Electroménagers</a>
+          <a class="nav-link" href="products.php?rayon=electromenagers">Electroménagers</a>
         </li>
       </ul>
     </div>
 
     <div class="d-flex align-items-center">
       <a class="text-reset me-3" href="#">
-        <i class="fas fa-shopping-cart"></i>
       </a>
 
     </div>
